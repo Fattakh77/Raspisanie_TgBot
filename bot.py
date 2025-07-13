@@ -11,9 +11,9 @@ from telegram.constants import ChatAction
 # Загрузка переменных окружения
 load_dotenv()
 # BOT_TOKEN = os.getenv('BOT_TOKEN')
-BOT_TOKEN = '7564168944:AAG3OwZbjmtx5n2u2HTz5Bvyw7mePzpwIGg'
-FULL_TIME_JSON = r"C:\Users\user\Downloads\Telegram Desktop\очноеkomp1.json"
-PART_TIME_JSON = r"C:\Users\user\Downloads\Telegram Desktop\заочноеkomp1.json"
+BOT_TOKEN = 
+FULL_TIME_JSON = 
+PART_TIME_JSON = 
 
 # Настройка логирования
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
